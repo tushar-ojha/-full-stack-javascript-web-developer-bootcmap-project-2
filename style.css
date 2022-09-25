@@ -15,7 +15,7 @@ body {
     rgba(21, 29, 48, 0.5)
   ),
   url(assets/pexels-maxyne-barcel-10402282\ 1.png);
-  height: 100vh;
+  height: 94vh;
  }
 
 
@@ -55,10 +55,17 @@ body {
   margin-right: 10%;
 }
 
+.list-item:hover {
+  cursor: pointer;
+}
+
 .order-button-container {
   width: 24%;
   text-align: right;
+}
 
+.order-button-container:hover {
+  cursor: pointer;
 }
 
 .button {
@@ -105,4 +112,8 @@ body {
   padding: 1rem;
   margin-top: 3rem;
   font-size: 1.5rem;
+}
+
+.button-large:hover {
+  cursor: pointer;
 }
