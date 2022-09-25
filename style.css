@@ -80,6 +80,10 @@ body {
   font-size: 1.25rem;
 }
 
+.button-small:hover {
+  cursor: pointer;
+}
+
 
 
 
