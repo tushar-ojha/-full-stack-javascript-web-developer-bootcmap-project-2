@@ -1,3 +1,5 @@
+[Go Live Buddy!](https://tushar-ojha-restaurant-home-page.netlify.app)
+
 ## About project:
 
 ### Given design:
