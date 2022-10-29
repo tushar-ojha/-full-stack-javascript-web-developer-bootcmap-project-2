@@ -2,7 +2,7 @@
 
 [Go Live Buddy!](https://tushar-ojha-restaurant-home-page.netlify.app)
 
-![Design Image](/html-css-logo.png)
+![Design Image](/html-css-logo1.png)
 
 ## About project:
 
