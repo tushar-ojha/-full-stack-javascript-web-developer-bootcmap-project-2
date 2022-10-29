@@ -2,6 +2,8 @@
 
 [Go Live Buddy!](https://tushar-ojha-restaurant-home-page.netlify.app)
 
+![Design Image](/html-css-logo.png)
+
 ## About project:
 
 - Took 2 hours to build it.
