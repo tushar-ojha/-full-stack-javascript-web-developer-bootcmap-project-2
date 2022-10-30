@@ -7,6 +7,7 @@
 ## About project:
 
 ![Design Image](/html-64px-logo.png)
+![Design Image](/css-64px-logo.png)
 
 - Took 2 hours to build it.
 - Learnings from the project:
