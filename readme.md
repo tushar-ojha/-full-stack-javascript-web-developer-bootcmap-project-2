@@ -1,13 +1,13 @@
+
+![Design Image](/html-64px-logo.png)
+![Design Image](/css-64px-logo.png)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/08792b0d-05a4-4f99-97ad-0f08934f1468/deploy-status)](https://app.netlify.com/sites/tushar-ojha-web-design-landing-page/deploys)
 
 ### [Go Live Buddy!](https://tushar-ojha-restaurant-home-page.netlify.app)
 
-![Design Image](/html-128px-logo.png)
-
 ## About project:
 
-![Design Image](/html-64px-logo.png)
-![Design Image](/css-64px-logo.png)
 
 - Took 2 hours to build it.
 - Learnings from the project:
